@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaswanth Vennela</h1>
-<h3 align="center">A dedicated software developer with an unwavering enthusiasm for cutting-edge technology.</h3>
+<!--<h3 align="center">A dedicated software developer with an unwavering enthusiasm for cutting-edge technology.</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legend67&label=Profile%20views&color=0e75b6&style=flat" alt="legend67" /> </p>
 
