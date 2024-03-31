@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Apex, LWC, API and Integration**
 
-- 📫 How to reach me **jaswanth0620001@gmail.com**
+- 📫 How to reach me **jaswanthvennela43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
