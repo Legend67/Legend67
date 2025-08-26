@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legend67" alt="legend67" /></a> </p>
 
-- 🌱 I’m currently learning **Python Automation, AWS**
+- 🌱 I’m currently learning **Python Automation, AWS, Flutter**
 
 - 📫 How to reach me **jaswanthvennela43@gmail.com**
 
